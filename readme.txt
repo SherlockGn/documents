@@ -1,0 +1,1 @@
+This is a folder used to put documents.
